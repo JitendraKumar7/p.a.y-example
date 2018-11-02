@@ -16,6 +16,8 @@ import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Initial commit
+
     private synchronized void init() {
 
         params.put(PayUMoney_Constants.KEY, "merchant_key>");
